@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, graalvm, gradle, http-client, jackson-databind, java, junit, logback, lombok, micronaut-build, readme, shade, yaml ]
